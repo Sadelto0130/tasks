@@ -75,7 +75,7 @@ function FormPage() {
         router.refresh();
       } catch (error) {
         console.log(error);
-      };
+      }
     };
   };
 
