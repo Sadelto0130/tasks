@@ -1,6 +1,7 @@
 "use client";
 import { ChangeEvent, FormEvent, useState, useEffect } from "react";
 import { useRouter, useParams } from "next/navigation";
+//tsx
 
 function FormPage() {
   //Se crea el state para guardar los datos del form
