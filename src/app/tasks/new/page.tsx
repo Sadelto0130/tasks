@@ -75,8 +75,8 @@ function FormPage() {
         router.refresh();
       } catch (error) {
         console.log(error);
-      }
-    }
+      };
+    };
   };
 
   //Previene el actualizado de la pag cuando se envia el form
